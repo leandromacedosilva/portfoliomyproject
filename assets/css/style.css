@@ -81,6 +81,7 @@ img.perfil {
     height: 62px;
     left: 648px;
     top: 884px;
+
     font-style: normal;
     font-weight: bolder;
     font-size: 48px;
@@ -101,6 +102,12 @@ img.perfil {
     font-size: 18px;
     line-height: 23px;
     text-align: center;
+
+    color: #FFFFFF;
+}
+
+.btns-flex-container {
+    display: flex;
 
     color: #FFFFFF;
 }
