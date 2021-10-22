@@ -280,6 +280,8 @@ img.perfil {
 .bloco-flex-container {
     display: flex;
     justify-content: space-evenly;
+    position: absolute;
+    left: 85px;
 }
 /**/
 .item-bloc1 {
