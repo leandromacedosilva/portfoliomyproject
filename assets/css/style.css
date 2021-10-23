@@ -281,7 +281,8 @@ img.perfil {
     display: flex;
     justify-content: space-evenly;
     position: absolute;
-    left: 85px;
+    left: 80px;
+    top: 230%;
 }
 /**/
 .item-bloc1 {
@@ -316,6 +317,35 @@ img.perfil {
     background: #212121;
 }
 /**/
+.item-img1 {
+    position: absolute;
+    left: 4.28%;
+    right: 90.84%;
+    top: 14.94%;
+    bottom: 65.15%;
+
+    /*background: #27AE60;*/
+}
+/**/
+.item-img2 {
+    position: absolute;
+    left: 39.3%;
+    right: 56.34%;
+    top: 14.94%;
+    bottom: 65.15%;
+
+    /*background: #27AE60;*/
+}
+/**/
+.item-img3 {
+    position: absolute;
+    left: 74.4%;
+    right: 21.75%;
+    top: 14.94%;
+    bottom: 65.15%;
+
+    /*background: #27AE60;*/
+}
 /**/
 /**/
 /**/
