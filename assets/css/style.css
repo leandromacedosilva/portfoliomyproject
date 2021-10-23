@@ -347,6 +347,65 @@ img.perfil {
     /*background: #27AE60;*/
 }
 /**/
+.myskills {
+    position: absolute;
+    width: 202px;
+    height: 62px;
+    left: 617px;
+    top: 1944px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 62px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+/**/
+.ms-flex-container {
+    display: flex;
+
+    position: absolute;
+    width: 1168px;
+    height: 235px;
+    left: 141px;
+    top: 2079px;
+
+    background: #212121;
+
+    border: 1px solid #333333;
+    box-sizing: border-box;
+}
+/**/
+.item-percent {
+    position: absolute;
+    width: 159px;
+    height: 94px;
+    left: 266px;
+    top: 2138px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 94px;
+
+    text-align: center;
+
+    color: #4F4F4F;
+}
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
 /**/
 /**/
 /**/
