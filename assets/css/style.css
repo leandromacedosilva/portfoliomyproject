@@ -497,8 +497,8 @@ img.perfil {
     position: absolute;
     width: 750px;
     height: 109px;
-    left: 346px;
-    top: 2708px;
+    left: 0px;
+    top: 130px;
 
     border: 1px solid #4F4F4F;
     background: #171717;
@@ -509,8 +509,8 @@ img.perfil {
     position: absolute;
     width: 143px;
     height: 42px;
-    left: 650px;
-    top: 2846px;
+    left: 290px;
+    top: 290px;
 
     background: #27AE60;
 }
@@ -521,7 +521,7 @@ img.perfil {
     position: absolute;
     width: 134px;
     height: 18px;
-    left: 654px;
+    left: 640px;
     top: 3048px;
 
     font-family: DM Sans;
