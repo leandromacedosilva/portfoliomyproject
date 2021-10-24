@@ -352,7 +352,7 @@ img.perfil {
     position: absolute;
     width: 202px;
     height: 62px;
-    left: 617px;
+    left: 550px;
     top: 1944px;
 
     font-family: DM Sans;
@@ -463,7 +463,28 @@ img.perfil {
     color: #27AE60;
 }
 /**/
+.item-git {
+    position: absolute;
+    width: 287px;
+    height: 62px;
+    left: 575px;
+    top: 2414px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 62px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
 /**/
+.git-flex-container form {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
 /**/
 /**/
 /**/
