@@ -68,7 +68,6 @@ img.perfil {
 }
 
 .about-flex-container {
-    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -76,7 +75,7 @@ img.perfil {
 }
 
 .item-about {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: DM Sans;
     position: absolute;
     width: 144px;
     height: 62px;
@@ -88,6 +87,8 @@ img.perfil {
     font-size: 48px;
     line-height: 62px;
     text-align: center;
+
+    color: #FFFFFF;
 }
 
 .item-about-text {
@@ -97,7 +98,7 @@ img.perfil {
     left: 347px;
     top: 984px;
 
-    font-family: 'Courier New', Courier, monospace;
+    font-family: DM Sans;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -366,11 +367,14 @@ img.perfil {
 /**/
 .ms-flex-container {
     display: flex;
-
+    
+}
+/**/
+.ms-flex-container {
     position: absolute;
     width: 1168px;
     height: 235px;
-    left: 141px;
+    left: 90px;
     top: 2079px;
 
     background: #212121;
@@ -379,12 +383,12 @@ img.perfil {
     box-sizing: border-box;
 }
 /**/
-.item-percent {
+.item-percent1 {
     position: absolute;
     width: 159px;
     height: 94px;
-    left: 266px;
-    top: 2138px;
+    left: 140px;
+    top: 90px;
 
     font-family: DM Sans;
     font-style: normal;
@@ -397,9 +401,67 @@ img.perfil {
     color: #4F4F4F;
 }
 /**/
+.item-percent2 {
+    position: absolute;
+    width: 155px;
+    height: 94px;
+    left: 400px;
+    top: 90px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 94px;
+
+    text-align: center;
+
+    color: #4F4F4F;
+}
 /**/
+.item-percent3 {
+    position: absolute;
+    width: 139px;
+    height: 94px;
+    left: 670px;
+    top: 90px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 94px;
+
+    text-align: center;
+
+    color: #4F4F4F;
+}
 /**/
+.item-percent4 {
+    position: absolute;
+    width: 104px;
+    height: 94px;
+    left: 900px;
+    top: 90px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 94px;
+
+    text-align: center;
+
+    color: #4F4F4F;
+}
 /**/
+.item-skperc {
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 31px;
+    color: #27AE60;
+}
 /**/
 /**/
 /**/
