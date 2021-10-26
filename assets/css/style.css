@@ -268,7 +268,7 @@ img.perfil {
     left: 607px;
     top: 1407px;
 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: DM Sans;
     font-style: normal;
     font-weight: bolder;
     font-size: 48px;
@@ -330,7 +330,7 @@ img.perfil {
 /**/
 .item-img2 {
     position: absolute;
-    left: 39.3%;
+    left: 8.3%;
     right: 56.34%;
     top: 14.94%;
     bottom: 65.15%;
@@ -340,12 +340,60 @@ img.perfil {
 /**/
 .item-img3 {
     position: absolute;
-    left: 74.4%;
+    left: 8.4%;
     right: 21.75%;
     top: 14.94%;
     bottom: 65.15%;
 
     /*background: #27AE60;*/
+}
+/**/
+.item-img-desc1{
+    position: absolute;
+    width: 229px;
+    height: 94px;
+    left: 50px;
+    top: 111px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #535353;
+}
+/**/
+.item-img-desc2{
+    position: absolute;
+    width: 229px;
+    height: 94px;
+    left: 50px;
+    top: 111px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #535353;    
+}
+/**/
+.item-img-desc3{
+    position: absolute;
+    width: 116px;
+    height: 94px;
+    left: 50px;
+    top: 111px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #535353;
 }
 /**/
 .myskills {
