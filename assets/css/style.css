@@ -484,11 +484,104 @@ img.perfil {
     display: flex;
     justify-content: space-evenly;
     
+  
+}
+/**/
+.item-placeh-name{
+    position: absolute;
+    width: 42px;
+    height: 18px;
+    left: 6px;
+    top: 0px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #4F4F4F;
+
     position: absolute;
     width: 358px;
     height: 0px;
     left: 343px;
     top: 2586px;
+
+    border: 1px solid #4F4F4F;
+}
+/**/
+.item-placeh-lname{
+    position: absolute;
+    width: 83px;
+    height: 18px;
+    left: 400px;
+    top: 0px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #4F4F4F;
+    
+    position: absolute;
+    width: 358px;
+    height: 0px;
+    left: 738px;
+    top: 2586px;
+
+    border: 1px solid #4F4F4F;
+}
+/**/
+.item-placeh-email{
+    position: absolute;
+    width: 42px;
+    height: 18px;
+    left: 6px;
+    top: 30px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #4F4F4F;
+
+    position: absolute;
+    width: 358px;
+    height: 0px;
+    left: 343px;
+    top: 2661px;
+
+    border: 1px solid #4F4F4F;
+}
+/**/
+.item-placeh-pnumb{
+    position: absolute;
+    width: 107px;
+    height: 18px;
+    left: 400px;
+    top: 30px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #4F4F4F;
+
+    position: absolute;
+    width: 358px;
+    height: 0px;
+    left: 738px;
+    top: 2661px;
 
     border: 1px solid #4F4F4F;
 }
