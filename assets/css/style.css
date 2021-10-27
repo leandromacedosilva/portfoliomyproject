@@ -514,3 +514,15 @@ img.perfil {
 .center {
     text-align: center;
 }
+
+#item-text-lorem {
+    margin: 50px;
+}
+
+.test-position {
+    padding: 100px;
+}
+
+#test-position2 {
+    padding: 100px;
+}
