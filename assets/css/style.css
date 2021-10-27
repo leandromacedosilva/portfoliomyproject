@@ -529,6 +529,14 @@ img.perfil {
     padding: 20px;
 }
 
+.item-space-btn {
+    padding: 50px;
+}
+
+.item-space-ft {
+    padding: 50px;
+}
+
 #test-position2 {
     padding: 100px;
 }
