@@ -518,8 +518,13 @@ img.perfil {
 
 #item-text-lorem {
     margin: 50px;
+    width: 950px;
+    text-align: center;
 }
 
+.item-space-ab {
+    margin: 60px;
+}
 
 .item-space {
     margin: 100px;
