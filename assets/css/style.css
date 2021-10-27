@@ -417,6 +417,7 @@ img.perfil {
 
     border: 1px solid #4F4F4F;
 }
+
 /**/
 .item-placeh-pnumb{
     position: absolute;
@@ -441,6 +442,7 @@ img.perfil {
 
     border: 1px solid #4F4F4F;
 }
+
 /**/
 .item-textarea textarea {
     position: absolute;
@@ -453,6 +455,7 @@ img.perfil {
     background: #171717;
     box-sizing: border-box;
 }
+
 /**/
 .btn-sn button{
     position: absolute;
@@ -473,8 +476,6 @@ img.perfil {
     line-height: 18px;
     color: #4F4F4F;
 }
-
-
 
 /* Form */
 .display-flex {
@@ -519,8 +520,13 @@ img.perfil {
     margin: 50px;
 }
 
-.test-position {
-    padding: 100px;
+
+.item-space {
+    margin: 100px;
+}
+
+.item-space-ms {
+    padding: 20px;
 }
 
 #test-position2 {
